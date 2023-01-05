@@ -1,0 +1,26 @@
+[DB]
+mongo_uri = mongodb://localhost:27017
+mongo_db = KUBIC
+
+[VARS]
+var1 = post_title
+var2 = post_body
+var3 = post_writer
+var4 = post_date
+var5 = published_institution
+var6 = published_institution_url
+var7 = top_category
+var8 = original_url
+var9 = file_name
+var10 = file_download_url
+var11 = file_id_in_fsfiles
+var12 = file_extracted_content
+var13 = hash_key
+var14 = timestamp
+
+[LOCAL]
+path_spider = /Users/minjooshin/kubicPJ2/CrawlingErrorDetection/CrawlingErrorDetection/spiders
+
+[SERVER]
+path_spider = /home/minjoo/Project/CrawlingErrorDetection/CrawlingErrorDetection/spiders
+
